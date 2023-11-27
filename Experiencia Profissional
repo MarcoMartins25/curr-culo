@@ -1,0 +1,40 @@
+        <!DOCTYPE html>
+        <html>
+        <head>
+        <title>Page Title</title>
+        </head>
+        <body>
+            <h1> Experiencia Profissional</h1>
+
+            
+            <h4> Empregado de Mesa:</h4>
+            <ul>
+                <li> Cantinho da Beta</li>
+            </ul>
+
+            <h2> Associação Filarmónica Mirandesa: </h3>
+                <h4> Membro da Banda Filarmónica de Miranda do Douro:</h2>
+                    <ul style=" list-style-type: circle;">
+                    <li> persurcionista</li>
+                </ul>
+                
+
+            <h3>Europarques Arribes del Duero: </h3>   
+            <ul>
+                <li> Formação em contexto de trabalho - 600h </li>
+            </ul>
+                <ul style="list-style-type: circle;">
+                <li> Atendimento a clientes</li>
+                <li> Prestação de informação da empresa</li>
+                <li> Limpeza do parque</li>
+                <li> Venda de produtos e reposição de stock na loja </li>
+                </ul>
+                
+
+
+                <img src="img/barc.JPG"  height="350" width="750">
+
+              
+
+        </body>
+        </html>

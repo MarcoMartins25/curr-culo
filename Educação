@@ -1,0 +1,27 @@
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <title>Page Title</title>
+    </head>
+    <body>
+
+        <h1>Educação</h1>
+        <h3> Agrupamento de Escolas de Miranda do Douro:</h3>
+        <ul style="list-style-type:square;">
+            <li>Ensino Secundário - Curso Profissional Técnico de Turismo</li>
+        </ul>
+
+        <h3>Europarques Arribes del Duero: </h3>   
+        <ul>
+            <li> Formação em contexto de trabalho - 600h </li>
+        </ul>
+            <ul style="list-style-type: circle;">
+            <li> Atendimento a clientes</li>
+            <li> Prestação de informação da empresa</li>
+            <li> Limpeza do parque</li>
+            <li> Venda de produtos e reposição de stock na loja </li>
+            </ul>
+
+                    <img src="img/esc.jpg"  height="350" width="750">
+        </body>
+        </html>
