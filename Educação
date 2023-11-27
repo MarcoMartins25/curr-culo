@@ -5,7 +5,7 @@
     </head>
     <body>
 
-        <h1>Educação</h1>
+        <h1 style="color:rgb(255, 0, 0);">Educação</h1>
         <h3> Agrupamento de Escolas de Miranda do Douro:</h3>
         <ul style="list-style-type:square;">
             <li>Ensino Secundário - Curso Profissional Técnico de Turismo</li>

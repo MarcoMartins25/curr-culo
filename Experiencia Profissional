@@ -4,16 +4,16 @@
         <title>Page Title</title>
         </head>
         <body>
-            <h1> Experiencia Profissional</h1>
+            <h1 style="color:rgb(255, 0, 0);">Experiência Profissional :</h1>
 
             
-            <h4> Empregado de Mesa:</h4>
+            <h3> Empregado de Mesa:</h3>
             <ul>
                 <li> Cantinho da Beta</li>
             </ul>
 
-            <h2> Associação Filarmónica Mirandesa: </h3>
-                <h4> Membro da Banda Filarmónica de Miranda do Douro:</h2>
+            <h3> Associação Filarmónica Mirandesa: </h3>
+                <h5> Membro da Banda Filarmónica de Miranda do Douro:</h2>
                     <ul style=" list-style-type: circle;">
                     <li> persurcionista</li>
                 </ul>
