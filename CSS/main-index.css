@@ -3,6 +3,7 @@ body {
   background-image: url(../img/back.jpg);
   font-family: 'Times New Roman', Times, serif;
   font-size: large;
+  
 
 }
 
@@ -28,17 +29,23 @@ header img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    
 }
 
 .center {
     text-align: center;
+    padding: 40px;
 }
 
 h1{
     color: black;
 
 }
+
+h2{
+    padding: 10px;
+    margin-left: 0px;
+}
+
 
 footer img{
     width: 40px;
@@ -48,31 +55,31 @@ footer img{
 footer{
     display: flex;
     justify-content: right;
-}
-
-footer a{
-    margin-top: 20px;
+    margin-top: 60px;
     text-align:right;
 }
 
+
 footer p{
     margin-top: 2px;
+    text-align: center;
+    color: white;
 }
 
 .container{
-    padding: 0px 20px;
+    padding: 10px 0%;
 }
 
 .container2{
-    padding: 0px 20px;
+    padding: 20px 20px;
 }
 
 .container3{
-    padding: 0px 20px;
+    padding: 20px 20px;
 }
 
 .container4{
-    padding: 0px 20px;
+    padding: 20px 20px;
 }
 
 nav a:hover{
